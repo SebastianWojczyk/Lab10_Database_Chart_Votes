@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DBVotes" Class="DBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DBVotes.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Lab10_Database_Chart_Votes.Properties.Settings" SettingsPropertyName="DBVotesConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Vote" Member="Votes">
+    <Type Name="Vote">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Grade" Type="System.Decimal" DbType="Decimal(2,1) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

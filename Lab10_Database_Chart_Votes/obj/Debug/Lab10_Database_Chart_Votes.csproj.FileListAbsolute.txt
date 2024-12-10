@@ -1,0 +1,12 @@
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\bin\Debug\DBVotes.mdf
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\bin\Debug\DBVotes_log.ldf
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\bin\Debug\Lab10_Database_Chart_Votes.exe.config
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\bin\Debug\Lab10_Database_Chart_Votes.exe
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\bin\Debug\Lab10_Database_Chart_Votes.pdb
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\obj\Debug\Lab10_Database_Chart_Votes.csprojAssemblyReference.cache
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\obj\Debug\Lab10_Database_Chart_Votes.Form1.resources
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\obj\Debug\Lab10_Database_Chart_Votes.Properties.Resources.resources
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\obj\Debug\Lab10_Database_Chart_Votes.csproj.GenerateResource.cache
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\obj\Debug\Lab10_Database_Chart_Votes.csproj.CoreCompileInputs.cache
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\obj\Debug\Lab10_Database_Chart_Votes.exe
+C:\Users\Student_PL\source\repos\Lab10_Database_Chart_Votes\obj\Debug\Lab10_Database_Chart_Votes.pdb
